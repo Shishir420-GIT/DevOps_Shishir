@@ -1,2 +1,1 @@
-# DevOps_Shishir
-Repository for Jenkins demo
+# DevOps Example for BITS Assigment
